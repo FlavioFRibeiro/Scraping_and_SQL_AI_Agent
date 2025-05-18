@@ -1,0 +1,4 @@
+Import pandas as pd
+Import numpy as np
+
+df = pd.read_csv(local_file, sep = ',', header = 12)
