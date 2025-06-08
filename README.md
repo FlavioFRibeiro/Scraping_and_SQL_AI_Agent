@@ -2,11 +2,11 @@
 
 ### Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
-conda create --name dsaduckfire python=3.12
+conda create --name <your_env_name_here> python=3.12
 
 ### Ative o ambiente:
 
-conda activate dsaduckfire (ou: source activate dsaduckfire)
+conda activate <your_env_name_here> (ou: source activate <your_env_name_here>)
 
 ### Instale o pip e as dependências:
 
