@@ -10,9 +10,9 @@ conda activate dsaduckfire (ou: source activate dsaduckfire)
 
 ### Instale o pip e as dependências:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### Execute os scripts:
 
