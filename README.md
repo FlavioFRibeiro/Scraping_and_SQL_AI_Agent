@@ -1,18 +1,18 @@
-# Extração de Dados com Firecrawl e Análise com SQL AI Agent e DuckDB
+### Extração de Dados com Firecrawl e Análise com SQL AI Agent e DuckDB
 
-# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+### Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
 conda create --name dsaduckfire python=3.12
 
-# Ative o ambiente:
+### Ative o ambiente:
 
 conda activate dsaduckfire (ou: source activate dsaduckfire)
 
-# Instale o pip e as dependências:
+### Instale o pip e as dependências:
 
 pip install -r requirements.txt 
 
-# Execute os scripts:
+### Execute os scripts:
 
 python dsa_web_scraping.py 
 
