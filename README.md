@@ -1,6 +1,6 @@
 ### Extração de Dados com Firecrawl e Análise com SQL AI Agent e DuckDB
 
-### Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+#### Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
 conda create --name <your_env_name_here> python=3.12
 
