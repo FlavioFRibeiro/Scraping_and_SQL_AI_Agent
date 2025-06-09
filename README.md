@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Execute os scripts:
 
 ```
-python dsa_web_scraping.py 
+python web_scraping.py 
 ```
 
 Neste primeito script você irá fazer o scraping de um site de livros, e com isso criar um database com os dados recolhidos. (neste repositório a database já se encontra populada, portando não precisa necessariamente correr este código).
