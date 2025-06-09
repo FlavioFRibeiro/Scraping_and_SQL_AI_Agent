@@ -4,6 +4,8 @@
 
 conda create --name <your_env_name_here> python=3.12
 
+Crie o arquivo .env para colocar as suas chaves API da OpenAI e Firecrawl
+
 ### Ative o ambiente:
 
 conda activate <your_env_name_here> (ou: source activate <your_env_name_here>)
